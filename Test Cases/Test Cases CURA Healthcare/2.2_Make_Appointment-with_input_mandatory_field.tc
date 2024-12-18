@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2.2_Make_Appointment-with_input_mandatory_field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5132eca5-ed82-49b6-bb09-ee95d4f10c63</testCaseGuid>
+</TestCaseEntity>
